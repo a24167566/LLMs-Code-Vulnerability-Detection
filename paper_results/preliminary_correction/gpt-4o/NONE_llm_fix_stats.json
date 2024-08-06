@@ -1,0 +1,85 @@
+{
+    "gpt-4o": {
+        "average": {
+            "total": 568,
+            "fixed": 269,
+            "not_fixed": 299,
+            "percentage": {
+                "fixed": 47.36,
+                "not_fixed": 52.64
+            }
+        },
+        "c": {
+            "total": 39,
+            "fixed": 17,
+            "not_fixed": 22,
+            "percentage": {
+                "fixed": 43.59,
+                "not_fixed": 56.41
+            }
+        },
+        "cpp": {
+            "total": 24,
+            "fixed": 14,
+            "not_fixed": 10,
+            "percentage": {
+                "fixed": 58.33,
+                "not_fixed": 41.67
+            }
+        },
+        "csharp": {
+            "total": 83,
+            "fixed": 33,
+            "not_fixed": 50,
+            "percentage": {
+                "fixed": 39.76,
+                "not_fixed": 60.24
+            }
+        },
+        "java": {
+            "total": 115,
+            "fixed": 71,
+            "not_fixed": 44,
+            "percentage": {
+                "fixed": 61.74,
+                "not_fixed": 38.26
+            }
+        },
+        "javascript": {
+            "total": 71,
+            "fixed": 45,
+            "not_fixed": 26,
+            "percentage": {
+                "fixed": 63.38,
+                "not_fixed": 36.62
+            }
+        },
+        "php": {
+            "total": 60,
+            "fixed": 12,
+            "not_fixed": 48,
+            "percentage": {
+                "fixed": 20.0,
+                "not_fixed": 80.0
+            }
+        },
+        "python": {
+            "total": 113,
+            "fixed": 61,
+            "not_fixed": 52,
+            "percentage": {
+                "fixed": 53.98,
+                "not_fixed": 46.02
+            }
+        },
+        "rust": {
+            "total": 63,
+            "fixed": 16,
+            "not_fixed": 47,
+            "percentage": {
+                "fixed": 25.4,
+                "not_fixed": 74.6
+            }
+        }
+    }
+}
