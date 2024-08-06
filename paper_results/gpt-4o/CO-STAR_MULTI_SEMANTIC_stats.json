@@ -1,0 +1,40 @@
+{
+    "vulnerable": {
+        "ss": 0,
+        "sc": 0,
+        "si": 0,
+        "cs": 2,
+        "cc": 63,
+        "ci": 328,
+        "failed": 0
+    },
+    "safe": {
+        "ss": 2,
+        "sc": 0,
+        "si": 391,
+        "cs": 0,
+        "cc": 0,
+        "ci": 0,
+        "failed": 0
+    },
+    "stats": {
+        "accuracy": 0.08269720101781171,
+        "precision": 0.13876651982378854,
+        "recall": 0.16030534351145037,
+        "f1": 0.14876033057851237,
+        "hil_accuracy": 0.5,
+        "hil_precision": 0.5,
+        "hil_recall": 0.9949109414758269,
+        "hil_f1": 0.665531914893617
+    },
+    "total": {
+        "ss": 0.51,
+        "sc": 0.0,
+        "si": 99.49,
+        "cs": 0.51,
+        "cc": 16.03,
+        "ci": 83.46,
+        "failed vulnerable": 0.0,
+        "failed secure": 0.0
+    }
+}
