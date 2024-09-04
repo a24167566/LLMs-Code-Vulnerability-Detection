@@ -6,7 +6,7 @@
         "cs": 794,
         "cc": 39,
         "ci": 920,
-        "failed": 9
+        "failed": 15
     },
     "safe": {
         "ss": 789,
@@ -15,7 +15,7 @@
         "cs": 0,
         "cc": 0,
         "ci": 0,
-        "failed": 9
+        "failed": 10
     },
     "stats": {
         "accuracy": 0.23583024779265166,

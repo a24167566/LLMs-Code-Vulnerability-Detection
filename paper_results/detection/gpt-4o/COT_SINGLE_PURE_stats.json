@@ -15,7 +15,7 @@
         "cs": 0,
         "cc": 0,
         "ci": 0,
-        "failed": 0
+        "failed": 1
     },
     "stats": {
         "accuracy": 0.08486562942008487,
